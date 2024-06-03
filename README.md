@@ -24,7 +24,7 @@ The objective of this project is to analyze various aspects of Atliq Hardwares' 
 
 ## Visualizations
 
-Visualizations have been created to illustrate each insight and are included in the `presentation/Consumer_Goods_Insights_Presentation.pptx`. 
+Visualizations have been created to illustrate each insight and are included in the `Consumer good.pptx`. 
 
 ## Usage
 
