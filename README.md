@@ -24,7 +24,7 @@ The objective of this project is to analyze various aspects of Atliq Hardwares' 
 
 ## Visualizations
 
-Visualizations have been created to illustrate each insight and are included in the `Consumer good.pptx`. 
+Visualizations have been created to illustrate each insight and are included in the `Consumer goods.pptx`. 
 
 ## Usage
 
@@ -32,5 +32,5 @@ Visualizations have been created to illustrate each insight and are included in 
    - The SQL queries used to extract insights are available in the `ad_hoc requests.sql` file. These queries can be run on a MySQL database containing the relevant data.
 
 2. **Presentation:**
-   - The PowerPoint presentation `Consumer_Goods_Insights_Presentation.pptx` contains all insights and visualizations. Open it to view or present the findings.
+   - The PowerPoint presentation `Consumer goods.pptx` contains all insights and visualizations. Open it to view or present the findings.
 
